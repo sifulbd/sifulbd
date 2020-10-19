@@ -4,7 +4,7 @@ Frontned developer from Sylhet, Bangladesh. I like to  🧑🏻‍💻    experi
 
 
 You can talk to me about,
-- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Material-UI Bootstrap**
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Material-UI, Bootstrap**
 - Backend development using **NodeJS, Express**
 - Database stuff using **MongoDB**
 
