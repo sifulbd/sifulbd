@@ -1,6 +1,6 @@
 ### Hi there!  🧑🏻‍💻   Nice to see you here.  I'm Siful  👋
 
-Frontned developer from Sylhet, Bangladesh. I like to  🧑🏻‍💻    experiment a lot!
+Frontned developer from Sylhet, Bangladesh.
 
 
 You can talk to me about,
