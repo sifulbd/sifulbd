@@ -1,6 +1,15 @@
-### Hi there! 😎 Nice to see you here 👋
+### Hi there!  🧑🏻‍💻   Nice to see you here.  I'm Siful  👋
 
-I'm Siful, Frontned developer from Sylhet, Bangladesh. I like to  🧑🏻‍💻    experiment a lot!
+Frontned developer from Sylhet, Bangladesh. I like to  🧑🏻‍💻    experiment a lot!
+
+
+You can talk to me about,
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Material-UI Bootstrap**
+- Backend development using **NodeJS, Express**
+- Database stuff using **MongoDB**
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@getsiful-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/getsiful)](https://twitter.com/getsiful) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sifulsmm@gmail.com)](mailto:sifulsmm@gmail.com)
 <!--
 **sifulbd/sifulbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 🖥 Technologies
 
-You can talk to me about,
-- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Jquery, Ant design, Bootstrap**
-- Backend development using **NodeJS, Express**
-- Database stuff using **Prisma, SQlite, MongoDB, MySQL, PostgreSQL**
 - Full stack stuff using **NextJS, BlitzJS**
 - Web automation using **Puppeteer, Cypress**
 - Deployment stuff using **Docker**
