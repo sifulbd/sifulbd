@@ -1,12 +1,12 @@
 ### Hi there!  🧑🏻‍💻   Nice to see you here.  I'm Siful  👋
 
-Frontned developer from Sylhet, Bangladesh.
+Frontend developer from Sylhet, Bangladesh.
 
 
 You can talk to me about,
-- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Material-UI, Bootstrap**
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Material-UI, Bootstrap, Tailwind css, Styled Component**
 - Backend development using **NodeJS, Express**
-- Database stuff using **MongoDB**
+- Database stuff using **MongoDB, MySQL, Sequelize**
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@getsiful-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/getsiful)](https://twitter.com/getsiful) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sifulsmm@gmail.com)](mailto:sifulsmm@gmail.com)
