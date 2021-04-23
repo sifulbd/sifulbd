@@ -9,7 +9,7 @@ You can talk to me about,
 - Database stuff using **MongoDB, MySQL, Sequelize**
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@getsiful-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/getsiful)](https://twitter.com/getsiful) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sifulsmm@gmail.com)](mailto:sifulsmm@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@getsiful-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/getsiful)](https://twitter.com/getsiful) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sifulsmm@gmail.com)](mailto:sifulsmm@gmail.com) [![Medium Badge](https://img.shields.io/badge/-@getsiful-000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://getsiful.medium.com/)](https://getsiful.medium.com/)
 <!--
 **sifulbd/sifulbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
