@@ -4,7 +4,7 @@ Frontend developer from Sylhet, Bangladesh.
 
 
 You can talk to me about,
-- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Redux, Material-UI, Bootstrap, Tailwind css, Styled Component**
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Redux, NextJS Material-UI, Bootstrap, Tailwind css, Styled Component**
 - Backend development using **NodeJS, Express**
 - Database stuff using **MongoDB, MySQL, Sequelize**
 
