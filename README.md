@@ -1,6 +1,6 @@
 ### Hi there!  🧑🏻‍💻   Nice to see you here.  I'm Siful  👋
 
-Frontend developer from Sylhet, Bangladesh.
+Frontend developer from Ghent, Belgium.
 
 
 You can talk to me about,
